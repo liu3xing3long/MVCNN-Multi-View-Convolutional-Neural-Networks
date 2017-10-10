@@ -1,0 +1,14 @@
+0
+12
+./classes/airplane/train/airplane_0285.off/airplane_0285.0.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.1.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.2.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.3.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.4.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.5.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.6.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.7.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.8.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.9.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.10.png
+./classes/airplane/train/airplane_0285.off/airplane_0285.11.png

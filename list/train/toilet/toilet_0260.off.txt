@@ -1,0 +1,14 @@
+39
+12
+./classes/toilet/train/toilet_0260.off/toilet_0260.0.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.1.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.2.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.3.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.4.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.5.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.6.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.7.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.8.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.9.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.10.png
+./classes/toilet/train/toilet_0260.off/toilet_0260.11.png

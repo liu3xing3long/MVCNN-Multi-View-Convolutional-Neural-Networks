@@ -1,0 +1,14 @@
+10
+12
+./classes/lamp/train/lamp_0061.off/lamp_0061.0.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.1.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.2.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.3.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.4.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.5.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.6.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.7.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.8.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.9.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.10.png
+./classes/lamp/train/lamp_0061.off/lamp_0061.11.png

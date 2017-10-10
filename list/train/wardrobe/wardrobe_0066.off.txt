@@ -1,0 +1,14 @@
+20
+12
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.0.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.1.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.2.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.3.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.4.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.5.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.6.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.7.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.8.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.9.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.10.png
+./classes/wardrobe/train/wardrobe_0066.off/wardrobe_0066.11.png

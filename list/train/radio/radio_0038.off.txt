@@ -1,0 +1,14 @@
+25
+12
+./classes/radio/train/radio_0038.off/radio_0038.0.png
+./classes/radio/train/radio_0038.off/radio_0038.1.png
+./classes/radio/train/radio_0038.off/radio_0038.2.png
+./classes/radio/train/radio_0038.off/radio_0038.3.png
+./classes/radio/train/radio_0038.off/radio_0038.4.png
+./classes/radio/train/radio_0038.off/radio_0038.5.png
+./classes/radio/train/radio_0038.off/radio_0038.6.png
+./classes/radio/train/radio_0038.off/radio_0038.7.png
+./classes/radio/train/radio_0038.off/radio_0038.8.png
+./classes/radio/train/radio_0038.off/radio_0038.9.png
+./classes/radio/train/radio_0038.off/radio_0038.10.png
+./classes/radio/train/radio_0038.off/radio_0038.11.png

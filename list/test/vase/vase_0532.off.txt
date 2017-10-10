@@ -1,0 +1,14 @@
+13
+12
+./classes/vase/test/vase_0532.off/vase_0532.0.png
+./classes/vase/test/vase_0532.off/vase_0532.1.png
+./classes/vase/test/vase_0532.off/vase_0532.2.png
+./classes/vase/test/vase_0532.off/vase_0532.3.png
+./classes/vase/test/vase_0532.off/vase_0532.4.png
+./classes/vase/test/vase_0532.off/vase_0532.5.png
+./classes/vase/test/vase_0532.off/vase_0532.6.png
+./classes/vase/test/vase_0532.off/vase_0532.7.png
+./classes/vase/test/vase_0532.off/vase_0532.8.png
+./classes/vase/test/vase_0532.off/vase_0532.9.png
+./classes/vase/test/vase_0532.off/vase_0532.10.png
+./classes/vase/test/vase_0532.off/vase_0532.11.png

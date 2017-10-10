@@ -1,0 +1,14 @@
+28
+12
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.0.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.1.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.2.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.3.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.4.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.5.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.6.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.7.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.8.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.9.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.10.png
+./classes/bookshelf/test/bookshelf_0602.off/bookshelf_0602.11.png

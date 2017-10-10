@@ -1,0 +1,14 @@
+11
+12
+./classes/piano/test/piano_0241.off/piano_0241.0.png
+./classes/piano/test/piano_0241.off/piano_0241.1.png
+./classes/piano/test/piano_0241.off/piano_0241.2.png
+./classes/piano/test/piano_0241.off/piano_0241.3.png
+./classes/piano/test/piano_0241.off/piano_0241.4.png
+./classes/piano/test/piano_0241.off/piano_0241.5.png
+./classes/piano/test/piano_0241.off/piano_0241.6.png
+./classes/piano/test/piano_0241.off/piano_0241.7.png
+./classes/piano/test/piano_0241.off/piano_0241.8.png
+./classes/piano/test/piano_0241.off/piano_0241.9.png
+./classes/piano/test/piano_0241.off/piano_0241.10.png
+./classes/piano/test/piano_0241.off/piano_0241.11.png

@@ -1,0 +1,14 @@
+8
+12
+./classes/car/test/car_0268.off/car_0268.0.png
+./classes/car/test/car_0268.off/car_0268.1.png
+./classes/car/test/car_0268.off/car_0268.2.png
+./classes/car/test/car_0268.off/car_0268.3.png
+./classes/car/test/car_0268.off/car_0268.4.png
+./classes/car/test/car_0268.off/car_0268.5.png
+./classes/car/test/car_0268.off/car_0268.6.png
+./classes/car/test/car_0268.off/car_0268.7.png
+./classes/car/test/car_0268.off/car_0268.8.png
+./classes/car/test/car_0268.off/car_0268.9.png
+./classes/car/test/car_0268.off/car_0268.10.png
+./classes/car/test/car_0268.off/car_0268.11.png

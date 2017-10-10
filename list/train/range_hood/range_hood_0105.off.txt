@@ -1,0 +1,14 @@
+32
+12
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.0.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.1.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.2.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.3.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.4.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.5.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.6.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.7.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.8.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.9.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.10.png
+./classes/range_hood/train/range_hood_0105.off/range_hood_0105.11.png

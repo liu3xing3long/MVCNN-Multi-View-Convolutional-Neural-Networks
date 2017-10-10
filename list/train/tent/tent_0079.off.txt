@@ -1,0 +1,14 @@
+33
+12
+./classes/tent/train/tent_0079.off/tent_0079.0.png
+./classes/tent/train/tent_0079.off/tent_0079.1.png
+./classes/tent/train/tent_0079.off/tent_0079.2.png
+./classes/tent/train/tent_0079.off/tent_0079.3.png
+./classes/tent/train/tent_0079.off/tent_0079.4.png
+./classes/tent/train/tent_0079.off/tent_0079.5.png
+./classes/tent/train/tent_0079.off/tent_0079.6.png
+./classes/tent/train/tent_0079.off/tent_0079.7.png
+./classes/tent/train/tent_0079.off/tent_0079.8.png
+./classes/tent/train/tent_0079.off/tent_0079.9.png
+./classes/tent/train/tent_0079.off/tent_0079.10.png
+./classes/tent/train/tent_0079.off/tent_0079.11.png

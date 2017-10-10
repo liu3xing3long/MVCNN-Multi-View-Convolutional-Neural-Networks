@@ -1,0 +1,14 @@
+2
+12
+./classes/desk/test/desk_0273.off/desk_0273.0.png
+./classes/desk/test/desk_0273.off/desk_0273.1.png
+./classes/desk/test/desk_0273.off/desk_0273.2.png
+./classes/desk/test/desk_0273.off/desk_0273.3.png
+./classes/desk/test/desk_0273.off/desk_0273.4.png
+./classes/desk/test/desk_0273.off/desk_0273.5.png
+./classes/desk/test/desk_0273.off/desk_0273.6.png
+./classes/desk/test/desk_0273.off/desk_0273.7.png
+./classes/desk/test/desk_0273.off/desk_0273.8.png
+./classes/desk/test/desk_0273.off/desk_0273.9.png
+./classes/desk/test/desk_0273.off/desk_0273.10.png
+./classes/desk/test/desk_0273.off/desk_0273.11.png

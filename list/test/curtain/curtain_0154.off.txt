@@ -1,0 +1,14 @@
+35
+12
+./classes/curtain/test/curtain_0154.off/curtain_0154.0.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.1.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.2.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.3.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.4.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.5.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.6.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.7.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.8.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.9.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.10.png
+./classes/curtain/test/curtain_0154.off/curtain_0154.11.png

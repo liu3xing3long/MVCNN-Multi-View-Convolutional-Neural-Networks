@@ -1,0 +1,14 @@
+8
+12
+./classes/car/train/car_0160.off/car_0160.0.png
+./classes/car/train/car_0160.off/car_0160.1.png
+./classes/car/train/car_0160.off/car_0160.2.png
+./classes/car/train/car_0160.off/car_0160.3.png
+./classes/car/train/car_0160.off/car_0160.4.png
+./classes/car/train/car_0160.off/car_0160.5.png
+./classes/car/train/car_0160.off/car_0160.6.png
+./classes/car/train/car_0160.off/car_0160.7.png
+./classes/car/train/car_0160.off/car_0160.8.png
+./classes/car/train/car_0160.off/car_0160.9.png
+./classes/car/train/car_0160.off/car_0160.10.png
+./classes/car/train/car_0160.off/car_0160.11.png

@@ -1,0 +1,14 @@
+34
+12
+./classes/bottle/test/bottle_0412.off/bottle_0412.0.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.1.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.2.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.3.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.4.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.5.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.6.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.7.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.8.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.9.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.10.png
+./classes/bottle/test/bottle_0412.off/bottle_0412.11.png

@@ -1,0 +1,14 @@
+7
+12
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.0.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.1.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.2.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.3.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.4.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.5.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.6.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.7.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.8.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.9.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.10.png
+./classes/bathtub/test/bathtub_0115.off/bathtub_0115.11.png

@@ -1,0 +1,14 @@
+6
+12
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.0.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.1.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.2.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.3.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.4.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.5.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.6.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.7.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.8.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.9.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.10.png
+./classes/tv_stand/train/tv_stand_0080.off/tv_stand_0080.11.png

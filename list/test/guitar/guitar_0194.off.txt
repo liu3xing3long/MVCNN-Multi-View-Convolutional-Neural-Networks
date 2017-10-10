@@ -1,0 +1,14 @@
+36
+12
+./classes/guitar/test/guitar_0194.off/guitar_0194.0.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.1.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.2.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.3.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.4.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.5.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.6.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.7.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.8.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.9.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.10.png
+./classes/guitar/test/guitar_0194.off/guitar_0194.11.png

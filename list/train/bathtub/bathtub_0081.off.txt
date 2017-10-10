@@ -1,0 +1,14 @@
+7
+12
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.0.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.1.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.2.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.3.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.4.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.5.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.6.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.7.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.8.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.9.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.10.png
+./classes/bathtub/train/bathtub_0081.off/bathtub_0081.11.png

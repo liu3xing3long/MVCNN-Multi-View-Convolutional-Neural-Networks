@@ -1,0 +1,14 @@
+16
+12
+./classes/dresser/test/dresser_0234.off/dresser_0234.0.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.1.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.2.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.3.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.4.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.5.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.6.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.7.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.8.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.9.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.10.png
+./classes/dresser/test/dresser_0234.off/dresser_0234.11.png

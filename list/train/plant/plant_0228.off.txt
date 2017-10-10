@@ -1,0 +1,14 @@
+18
+12
+./classes/plant/train/plant_0228.off/plant_0228.0.png
+./classes/plant/train/plant_0228.off/plant_0228.1.png
+./classes/plant/train/plant_0228.off/plant_0228.2.png
+./classes/plant/train/plant_0228.off/plant_0228.3.png
+./classes/plant/train/plant_0228.off/plant_0228.4.png
+./classes/plant/train/plant_0228.off/plant_0228.5.png
+./classes/plant/train/plant_0228.off/plant_0228.6.png
+./classes/plant/train/plant_0228.off/plant_0228.7.png
+./classes/plant/train/plant_0228.off/plant_0228.8.png
+./classes/plant/train/plant_0228.off/plant_0228.9.png
+./classes/plant/train/plant_0228.off/plant_0228.10.png
+./classes/plant/train/plant_0228.off/plant_0228.11.png

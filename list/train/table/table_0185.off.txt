@@ -1,0 +1,14 @@
+26
+12
+./classes/table/train/table_0185.off/table_0185.0.png
+./classes/table/train/table_0185.off/table_0185.1.png
+./classes/table/train/table_0185.off/table_0185.2.png
+./classes/table/train/table_0185.off/table_0185.3.png
+./classes/table/train/table_0185.off/table_0185.4.png
+./classes/table/train/table_0185.off/table_0185.5.png
+./classes/table/train/table_0185.off/table_0185.6.png
+./classes/table/train/table_0185.off/table_0185.7.png
+./classes/table/train/table_0185.off/table_0185.8.png
+./classes/table/train/table_0185.off/table_0185.9.png
+./classes/table/train/table_0185.off/table_0185.10.png
+./classes/table/train/table_0185.off/table_0185.11.png

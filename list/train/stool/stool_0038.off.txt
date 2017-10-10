@@ -1,0 +1,14 @@
+19
+12
+./classes/stool/train/stool_0038.off/stool_0038.0.png
+./classes/stool/train/stool_0038.off/stool_0038.1.png
+./classes/stool/train/stool_0038.off/stool_0038.2.png
+./classes/stool/train/stool_0038.off/stool_0038.3.png
+./classes/stool/train/stool_0038.off/stool_0038.4.png
+./classes/stool/train/stool_0038.off/stool_0038.5.png
+./classes/stool/train/stool_0038.off/stool_0038.6.png
+./classes/stool/train/stool_0038.off/stool_0038.7.png
+./classes/stool/train/stool_0038.off/stool_0038.8.png
+./classes/stool/train/stool_0038.off/stool_0038.9.png
+./classes/stool/train/stool_0038.off/stool_0038.10.png
+./classes/stool/train/stool_0038.off/stool_0038.11.png

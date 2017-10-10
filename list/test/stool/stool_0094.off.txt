@@ -1,0 +1,14 @@
+19
+12
+./classes/stool/test/stool_0094.off/stool_0094.0.png
+./classes/stool/test/stool_0094.off/stool_0094.1.png
+./classes/stool/test/stool_0094.off/stool_0094.2.png
+./classes/stool/test/stool_0094.off/stool_0094.3.png
+./classes/stool/test/stool_0094.off/stool_0094.4.png
+./classes/stool/test/stool_0094.off/stool_0094.5.png
+./classes/stool/test/stool_0094.off/stool_0094.6.png
+./classes/stool/test/stool_0094.off/stool_0094.7.png
+./classes/stool/test/stool_0094.off/stool_0094.8.png
+./classes/stool/test/stool_0094.off/stool_0094.9.png
+./classes/stool/test/stool_0094.off/stool_0094.10.png
+./classes/stool/test/stool_0094.off/stool_0094.11.png

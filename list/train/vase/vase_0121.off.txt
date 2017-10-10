@@ -1,0 +1,14 @@
+13
+12
+./classes/vase/train/vase_0121.off/vase_0121.0.png
+./classes/vase/train/vase_0121.off/vase_0121.1.png
+./classes/vase/train/vase_0121.off/vase_0121.2.png
+./classes/vase/train/vase_0121.off/vase_0121.3.png
+./classes/vase/train/vase_0121.off/vase_0121.4.png
+./classes/vase/train/vase_0121.off/vase_0121.5.png
+./classes/vase/train/vase_0121.off/vase_0121.6.png
+./classes/vase/train/vase_0121.off/vase_0121.7.png
+./classes/vase/train/vase_0121.off/vase_0121.8.png
+./classes/vase/train/vase_0121.off/vase_0121.9.png
+./classes/vase/train/vase_0121.off/vase_0121.10.png
+./classes/vase/train/vase_0121.off/vase_0121.11.png

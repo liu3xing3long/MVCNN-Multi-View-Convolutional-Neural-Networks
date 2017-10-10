@@ -1,0 +1,14 @@
+29
+12
+./classes/cup/test/cup_0095.off/cup_0095.0.png
+./classes/cup/test/cup_0095.off/cup_0095.1.png
+./classes/cup/test/cup_0095.off/cup_0095.2.png
+./classes/cup/test/cup_0095.off/cup_0095.3.png
+./classes/cup/test/cup_0095.off/cup_0095.4.png
+./classes/cup/test/cup_0095.off/cup_0095.5.png
+./classes/cup/test/cup_0095.off/cup_0095.6.png
+./classes/cup/test/cup_0095.off/cup_0095.7.png
+./classes/cup/test/cup_0095.off/cup_0095.8.png
+./classes/cup/test/cup_0095.off/cup_0095.9.png
+./classes/cup/test/cup_0095.off/cup_0095.10.png
+./classes/cup/test/cup_0095.off/cup_0095.11.png

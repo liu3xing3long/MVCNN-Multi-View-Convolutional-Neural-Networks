@@ -1,0 +1,14 @@
+0
+12
+./classes/airplane/train/airplane_0449.off/airplane_0449.0.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.1.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.2.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.3.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.4.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.5.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.6.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.7.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.8.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.9.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.10.png
+./classes/airplane/train/airplane_0449.off/airplane_0449.11.png

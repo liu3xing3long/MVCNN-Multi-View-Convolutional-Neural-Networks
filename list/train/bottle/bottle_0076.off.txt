@@ -1,0 +1,14 @@
+34
+12
+./classes/bottle/train/bottle_0076.off/bottle_0076.0.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.1.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.2.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.3.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.4.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.5.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.6.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.7.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.8.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.9.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.10.png
+./classes/bottle/train/bottle_0076.off/bottle_0076.11.png

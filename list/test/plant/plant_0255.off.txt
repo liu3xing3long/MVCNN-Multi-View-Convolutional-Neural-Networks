@@ -1,0 +1,14 @@
+18
+12
+./classes/plant/test/plant_0255.off/plant_0255.0.png
+./classes/plant/test/plant_0255.off/plant_0255.1.png
+./classes/plant/test/plant_0255.off/plant_0255.2.png
+./classes/plant/test/plant_0255.off/plant_0255.3.png
+./classes/plant/test/plant_0255.off/plant_0255.4.png
+./classes/plant/test/plant_0255.off/plant_0255.5.png
+./classes/plant/test/plant_0255.off/plant_0255.6.png
+./classes/plant/test/plant_0255.off/plant_0255.7.png
+./classes/plant/test/plant_0255.off/plant_0255.8.png
+./classes/plant/test/plant_0255.off/plant_0255.9.png
+./classes/plant/test/plant_0255.off/plant_0255.10.png
+./classes/plant/test/plant_0255.off/plant_0255.11.png

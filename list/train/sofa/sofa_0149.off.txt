@@ -1,0 +1,14 @@
+5
+12
+./classes/sofa/train/sofa_0149.off/sofa_0149.0.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.1.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.2.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.3.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.4.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.5.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.6.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.7.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.8.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.9.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.10.png
+./classes/sofa/train/sofa_0149.off/sofa_0149.11.png

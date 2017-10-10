@@ -1,0 +1,14 @@
+37
+12
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.0.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.1.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.2.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.3.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.4.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.5.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.6.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.7.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.8.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.9.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.10.png
+./classes/night_stand/train/night_stand_0075.off/night_stand_0075.11.png

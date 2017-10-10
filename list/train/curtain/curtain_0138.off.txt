@@ -1,0 +1,14 @@
+35
+12
+./classes/curtain/train/curtain_0138.off/curtain_0138.0.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.1.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.2.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.3.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.4.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.5.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.6.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.7.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.8.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.9.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.10.png
+./classes/curtain/train/curtain_0138.off/curtain_0138.11.png

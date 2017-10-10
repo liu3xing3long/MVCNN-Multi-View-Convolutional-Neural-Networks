@@ -1,0 +1,14 @@
+38
+12
+./classes/sink/train/sink_0090.off/sink_0090.0.png
+./classes/sink/train/sink_0090.off/sink_0090.1.png
+./classes/sink/train/sink_0090.off/sink_0090.2.png
+./classes/sink/train/sink_0090.off/sink_0090.3.png
+./classes/sink/train/sink_0090.off/sink_0090.4.png
+./classes/sink/train/sink_0090.off/sink_0090.5.png
+./classes/sink/train/sink_0090.off/sink_0090.6.png
+./classes/sink/train/sink_0090.off/sink_0090.7.png
+./classes/sink/train/sink_0090.off/sink_0090.8.png
+./classes/sink/train/sink_0090.off/sink_0090.9.png
+./classes/sink/train/sink_0090.off/sink_0090.10.png
+./classes/sink/train/sink_0090.off/sink_0090.11.png

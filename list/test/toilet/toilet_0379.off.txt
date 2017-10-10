@@ -1,0 +1,14 @@
+39
+12
+./classes/toilet/test/toilet_0379.off/toilet_0379.0.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.1.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.2.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.3.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.4.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.5.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.6.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.7.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.8.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.9.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.10.png
+./classes/toilet/test/toilet_0379.off/toilet_0379.11.png

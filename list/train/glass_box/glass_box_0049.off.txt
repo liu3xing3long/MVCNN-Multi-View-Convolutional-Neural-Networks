@@ -1,0 +1,14 @@
+30
+12
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.0.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.1.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.2.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.3.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.4.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.5.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.6.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.7.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.8.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.9.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.10.png
+./classes/glass_box/train/glass_box_0049.off/glass_box_0049.11.png

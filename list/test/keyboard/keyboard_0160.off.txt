@@ -1,0 +1,14 @@
+3
+12
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.0.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.1.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.2.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.3.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.4.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.5.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.6.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.7.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.8.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.9.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.10.png
+./classes/keyboard/test/keyboard_0160.off/keyboard_0160.11.png

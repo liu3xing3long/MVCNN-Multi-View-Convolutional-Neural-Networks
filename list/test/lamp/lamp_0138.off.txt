@@ -1,0 +1,14 @@
+10
+12
+./classes/lamp/test/lamp_0138.off/lamp_0138.0.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.1.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.2.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.3.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.4.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.5.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.6.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.7.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.8.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.9.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.10.png
+./classes/lamp/test/lamp_0138.off/lamp_0138.11.png

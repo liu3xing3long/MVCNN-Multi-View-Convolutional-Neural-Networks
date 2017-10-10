@@ -1,0 +1,14 @@
+36
+12
+./classes/guitar/train/guitar_0027.off/guitar_0027.0.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.1.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.2.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.3.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.4.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.5.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.6.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.7.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.8.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.9.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.10.png
+./classes/guitar/train/guitar_0027.off/guitar_0027.11.png

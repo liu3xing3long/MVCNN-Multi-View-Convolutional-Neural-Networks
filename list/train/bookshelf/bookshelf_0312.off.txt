@@ -1,0 +1,14 @@
+28
+12
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.0.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.1.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.2.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.3.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.4.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.5.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.6.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.7.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.8.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.9.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.10.png
+./classes/bookshelf/train/bookshelf_0312.off/bookshelf_0312.11.png

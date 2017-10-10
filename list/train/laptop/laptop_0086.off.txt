@@ -1,0 +1,14 @@
+17
+12
+./classes/laptop/train/laptop_0086.off/laptop_0086.0.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.1.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.2.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.3.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.4.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.5.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.6.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.7.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.8.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.9.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.10.png
+./classes/laptop/train/laptop_0086.off/laptop_0086.11.png

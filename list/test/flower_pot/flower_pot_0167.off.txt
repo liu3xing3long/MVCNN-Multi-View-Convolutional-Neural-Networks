@@ -1,0 +1,14 @@
+23
+12
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.0.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.1.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.2.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.3.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.4.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.5.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.6.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.7.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.8.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.9.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.10.png
+./classes/flower_pot/test/flower_pot_0167.off/flower_pot_0167.11.png

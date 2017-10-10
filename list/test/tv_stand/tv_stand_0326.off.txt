@@ -1,0 +1,14 @@
+6
+12
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.0.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.1.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.2.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.3.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.4.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.5.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.6.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.7.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.8.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.9.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.10.png
+./classes/tv_stand/test/tv_stand_0326.off/tv_stand_0326.11.png

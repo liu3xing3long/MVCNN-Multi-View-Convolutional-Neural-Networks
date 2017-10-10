@@ -1,0 +1,14 @@
+25
+12
+./classes/radio/test/radio_0106.off/radio_0106.0.png
+./classes/radio/test/radio_0106.off/radio_0106.1.png
+./classes/radio/test/radio_0106.off/radio_0106.2.png
+./classes/radio/test/radio_0106.off/radio_0106.3.png
+./classes/radio/test/radio_0106.off/radio_0106.4.png
+./classes/radio/test/radio_0106.off/radio_0106.5.png
+./classes/radio/test/radio_0106.off/radio_0106.6.png
+./classes/radio/test/radio_0106.off/radio_0106.7.png
+./classes/radio/test/radio_0106.off/radio_0106.8.png
+./classes/radio/test/radio_0106.off/radio_0106.9.png
+./classes/radio/test/radio_0106.off/radio_0106.10.png
+./classes/radio/test/radio_0106.off/radio_0106.11.png

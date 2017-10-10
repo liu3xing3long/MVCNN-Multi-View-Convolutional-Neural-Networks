@@ -1,0 +1,14 @@
+3
+12
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.0.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.1.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.2.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.3.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.4.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.5.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.6.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.7.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.8.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.9.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.10.png
+./classes/keyboard/train/keyboard_0079.off/keyboard_0079.11.png

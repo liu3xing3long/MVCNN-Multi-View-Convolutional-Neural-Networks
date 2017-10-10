@@ -1,0 +1,14 @@
+31
+12
+./classes/monitor/test/monitor_0544.off/monitor_0544.0.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.1.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.2.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.3.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.4.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.5.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.6.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.7.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.8.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.9.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.10.png
+./classes/monitor/test/monitor_0544.off/monitor_0544.11.png

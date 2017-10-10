@@ -1,0 +1,14 @@
+37
+12
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.0.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.1.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.2.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.3.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.4.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.5.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.6.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.7.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.8.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.9.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.10.png
+./classes/night_stand/test/night_stand_0252.off/night_stand_0252.11.png

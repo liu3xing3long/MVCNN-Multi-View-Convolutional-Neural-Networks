@@ -1,0 +1,14 @@
+22
+12
+./classes/cone/train/cone_0007.off/cone_0007.0.png
+./classes/cone/train/cone_0007.off/cone_0007.1.png
+./classes/cone/train/cone_0007.off/cone_0007.2.png
+./classes/cone/train/cone_0007.off/cone_0007.3.png
+./classes/cone/train/cone_0007.off/cone_0007.4.png
+./classes/cone/train/cone_0007.off/cone_0007.5.png
+./classes/cone/train/cone_0007.off/cone_0007.6.png
+./classes/cone/train/cone_0007.off/cone_0007.7.png
+./classes/cone/train/cone_0007.off/cone_0007.8.png
+./classes/cone/train/cone_0007.off/cone_0007.9.png
+./classes/cone/train/cone_0007.off/cone_0007.10.png
+./classes/cone/train/cone_0007.off/cone_0007.11.png

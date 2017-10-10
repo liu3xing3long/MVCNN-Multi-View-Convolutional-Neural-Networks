@@ -1,0 +1,14 @@
+4
+12
+./classes/person/train/person_0002.off/person_0002.0.png
+./classes/person/train/person_0002.off/person_0002.1.png
+./classes/person/train/person_0002.off/person_0002.2.png
+./classes/person/train/person_0002.off/person_0002.3.png
+./classes/person/train/person_0002.off/person_0002.4.png
+./classes/person/train/person_0002.off/person_0002.5.png
+./classes/person/train/person_0002.off/person_0002.6.png
+./classes/person/train/person_0002.off/person_0002.7.png
+./classes/person/train/person_0002.off/person_0002.8.png
+./classes/person/train/person_0002.off/person_0002.9.png
+./classes/person/train/person_0002.off/person_0002.10.png
+./classes/person/train/person_0002.off/person_0002.11.png

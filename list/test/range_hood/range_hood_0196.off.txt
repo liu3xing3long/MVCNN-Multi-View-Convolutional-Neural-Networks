@@ -1,0 +1,14 @@
+32
+12
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.0.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.1.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.2.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.3.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.4.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.5.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.6.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.7.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.8.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.9.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.10.png
+./classes/range_hood/test/range_hood_0196.off/range_hood_0196.11.png

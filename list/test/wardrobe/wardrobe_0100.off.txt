@@ -1,0 +1,14 @@
+20
+12
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.0.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.1.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.2.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.3.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.4.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.5.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.6.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.7.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.8.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.9.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.10.png
+./classes/wardrobe/test/wardrobe_0100.off/wardrobe_0100.11.png

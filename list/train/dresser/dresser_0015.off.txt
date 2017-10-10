@@ -1,0 +1,14 @@
+16
+12
+./classes/dresser/train/dresser_0015.off/dresser_0015.0.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.1.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.2.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.3.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.4.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.5.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.6.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.7.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.8.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.9.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.10.png
+./classes/dresser/train/dresser_0015.off/dresser_0015.11.png

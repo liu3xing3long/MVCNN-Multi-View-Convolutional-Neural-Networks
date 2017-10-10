@@ -1,0 +1,14 @@
+30
+12
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.0.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.1.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.2.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.3.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.4.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.5.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.6.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.7.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.8.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.9.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.10.png
+./classes/glass_box/test/glass_box_0226.off/glass_box_0226.11.png

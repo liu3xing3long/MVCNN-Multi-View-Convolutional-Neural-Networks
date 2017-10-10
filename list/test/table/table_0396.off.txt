@@ -1,0 +1,14 @@
+26
+12
+./classes/table/test/table_0396.off/table_0396.0.png
+./classes/table/test/table_0396.off/table_0396.1.png
+./classes/table/test/table_0396.off/table_0396.2.png
+./classes/table/test/table_0396.off/table_0396.3.png
+./classes/table/test/table_0396.off/table_0396.4.png
+./classes/table/test/table_0396.off/table_0396.5.png
+./classes/table/test/table_0396.off/table_0396.6.png
+./classes/table/test/table_0396.off/table_0396.7.png
+./classes/table/test/table_0396.off/table_0396.8.png
+./classes/table/test/table_0396.off/table_0396.9.png
+./classes/table/test/table_0396.off/table_0396.10.png
+./classes/table/test/table_0396.off/table_0396.11.png

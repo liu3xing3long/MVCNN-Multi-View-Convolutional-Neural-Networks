@@ -1,0 +1,14 @@
+31
+12
+./classes/monitor/train/monitor_0384.off/monitor_0384.0.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.1.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.2.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.3.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.4.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.5.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.6.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.7.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.8.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.9.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.10.png
+./classes/monitor/train/monitor_0384.off/monitor_0384.11.png

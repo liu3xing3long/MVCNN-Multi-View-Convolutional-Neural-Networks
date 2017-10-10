@@ -1,0 +1,14 @@
+24
+12
+./classes/mantel/train/mantel_0045.off/mantel_0045.0.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.1.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.2.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.3.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.4.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.5.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.6.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.7.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.8.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.9.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.10.png
+./classes/mantel/train/mantel_0045.off/mantel_0045.11.png

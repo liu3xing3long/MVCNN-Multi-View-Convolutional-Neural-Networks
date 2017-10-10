@@ -1,0 +1,14 @@
+27
+12
+./classes/xbox/train/xbox_0052.off/xbox_0052.0.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.1.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.2.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.3.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.4.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.5.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.6.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.7.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.8.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.9.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.10.png
+./classes/xbox/train/xbox_0052.off/xbox_0052.11.png

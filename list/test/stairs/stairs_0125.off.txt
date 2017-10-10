@@ -1,0 +1,14 @@
+12
+12
+./classes/stairs/test/stairs_0125.off/stairs_0125.0.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.1.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.2.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.3.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.4.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.5.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.6.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.7.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.8.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.9.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.10.png
+./classes/stairs/test/stairs_0125.off/stairs_0125.11.png

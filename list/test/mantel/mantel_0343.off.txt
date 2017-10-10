@@ -1,0 +1,14 @@
+24
+12
+./classes/mantel/test/mantel_0343.off/mantel_0343.0.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.1.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.2.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.3.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.4.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.5.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.6.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.7.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.8.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.9.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.10.png
+./classes/mantel/test/mantel_0343.off/mantel_0343.11.png

@@ -1,0 +1,14 @@
+0
+12
+./classes/airplane/test/airplane_0671.off/airplane_0671.0.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.1.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.2.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.3.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.4.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.5.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.6.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.7.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.8.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.9.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.10.png
+./classes/airplane/test/airplane_0671.off/airplane_0671.11.png

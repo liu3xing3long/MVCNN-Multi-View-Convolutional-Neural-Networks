@@ -1,0 +1,14 @@
+9
+12
+./classes/door/train/door_0051.off/door_0051.0.png
+./classes/door/train/door_0051.off/door_0051.1.png
+./classes/door/train/door_0051.off/door_0051.2.png
+./classes/door/train/door_0051.off/door_0051.3.png
+./classes/door/train/door_0051.off/door_0051.4.png
+./classes/door/train/door_0051.off/door_0051.5.png
+./classes/door/train/door_0051.off/door_0051.6.png
+./classes/door/train/door_0051.off/door_0051.7.png
+./classes/door/train/door_0051.off/door_0051.8.png
+./classes/door/train/door_0051.off/door_0051.9.png
+./classes/door/train/door_0051.off/door_0051.10.png
+./classes/door/train/door_0051.off/door_0051.11.png

@@ -1,0 +1,14 @@
+27
+12
+./classes/xbox/test/xbox_0120.off/xbox_0120.0.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.1.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.2.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.3.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.4.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.5.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.6.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.7.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.8.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.9.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.10.png
+./classes/xbox/test/xbox_0120.off/xbox_0120.11.png
